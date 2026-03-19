@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.1.0",
     "type": "module",
-    "homepage": "https://твой-логин.github.io/название-репозитория",
+    "homepage": "https://ReaperCq.github.io/Book-manager",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
